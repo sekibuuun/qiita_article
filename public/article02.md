@@ -4,7 +4,7 @@ tags:
   - TypeScript
   - Apex
   - bot
-private: false
+private: true
 updated_at: '2024-01-27T12:41:34+09:00'
 id: fd4e18aa3603be876419
 organization_url_name: null
